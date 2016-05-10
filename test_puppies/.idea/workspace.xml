@@ -22,21 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="adopting_puppies.feature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="adopting_puppies.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/adopting_puppies.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state relative-caret-position="180">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adopting_puppies_steps.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="adopting_puppies_steps.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/adopting_puppies_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+            <state relative-caret-position="353">
+              <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -59,7 +59,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="545" />
-    <option name="y" value="35" />
+    <option name="y" value="33" />
     <option name="width" value="735" />
     <option name="height" value="678" />
   </component>
@@ -335,15 +335,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1461890723461</updated>
-      <workItem from="1461890724725" duration="1628000" />
+      <workItem from="1461890724725" duration="2674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1628000" />
+    <option name="totallyTimeSpent" value="2674000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="35" width="735" height="678" extended-state="0" />
+    <frame x="545" y="33" width="735" height="678" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -390,18 +390,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/adopting_puppies_steps.rb">
+    <entry file="file://$PROJECT_DIR$/features/adopting_puppies.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        <state relative-caret-position="180">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/adopting_puppies.feature">
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/adopting_puppies_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="353">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
           <folding />
         </state>
       </provider>

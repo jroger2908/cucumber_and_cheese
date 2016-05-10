@@ -36,5 +36,5 @@ And(/^I click the Place Order button$/) do
 end
 
 Then(/^I should see "([^"]*)"$/) do |message|
-   @browser.text.include?(message).should == true
+   expect(@browser.text).to include(message)
 end

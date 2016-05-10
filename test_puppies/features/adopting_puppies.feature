@@ -14,3 +14,5 @@ Feature: Adopting puppies
     And I select "Credit card" from the pay with dropdown
     And I click the Place Order button
     Then I should see "Thank you for adopting a puppy!"
+
+  Scenario: Adoptin two puppies
