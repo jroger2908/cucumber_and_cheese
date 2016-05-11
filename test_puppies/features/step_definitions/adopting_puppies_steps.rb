@@ -38,3 +38,11 @@ end
 Then(/^I should see "([^"]*)"$/) do |message|
    expect(@browser.text).to include(message)
 end
+
+And(/^I click the Adopt Another Puppy button$/) do
+  @browser.button(:value => "Adopt Another Puppy").click
+end
+
+And(/^I click the second View Details button$/) do
+  @browser.button(:value => "View Details", :index => 1).click
+end

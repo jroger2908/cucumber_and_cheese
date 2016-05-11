@@ -7,6 +7,9 @@ Feature: Adopting puppies
     Given I am on the puppy adoption site
     When I click the View Details button
     And I click the Adopt Me button
+    And I click the Adopt Another Puppy button
+    And I click the second View Details button
+    And I click the Adopt Me button
     And I click the Complete the Adoption button
     And I enter "Cheezy" in the name field
     And I enter "123 Main Street" in the address field
