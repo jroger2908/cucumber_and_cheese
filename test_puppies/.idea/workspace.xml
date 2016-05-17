@@ -42,21 +42,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shopping_cart_page.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="shopping_cart_page.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/support/pages/shopping_cart_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="checkout_page.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="checkout_page.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/support/pages/checkout_page.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,9 +75,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/features/adopting_puppies.feature" />
-        <option value="$PROJECT_DIR$/features/support/pages/shopping_cart_page.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/adopting_puppies_steps.rb" />
         <option value="$PROJECT_DIR$/features/support/pages/checkout_page.rb" />
+        <option value="$PROJECT_DIR$/features/support/pages/shopping_cart_page.rb" />
       </list>
     </option>
   </component>
@@ -420,12 +420,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1461890723461</updated>
-      <workItem from="1461890724725" duration="7480000" />
+      <workItem from="1461890724725" duration="7858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7480000" />
+    <option name="totallyTimeSpent" value="7858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="502" y="33" width="778" height="670" extended-state="0" />
@@ -491,14 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/pages/shopping_cart_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/adopting_puppies_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -510,7 +502,15 @@
     <entry file="file://$PROJECT_DIR$/features/support/pages/checkout_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/shopping_cart_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
           <folding />
         </state>
       </provider>
